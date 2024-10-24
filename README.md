@@ -73,7 +73,7 @@ I'm a Software Developer and Tech Enthusiast. I’m passionate about building in
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NatashaJWangui&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## See You Soon! 👋
+## Until next time! 👋
 Thank you for taking the time to explore my profile! Your visit means a lot to me. I look forward to crossing paths again soon—let's connect and create amazing things together! 🚀
 
 <img src="https://i.gifer.com/Za3R.gif" alt="Waving GIF" width="250" /> <br>
@@ -83,4 +83,4 @@ Thank you for taking the time to explore my profile! Your visit means a lot to m
 
 [![](https://visitcount.itsvg.in/api?id=NatashaJWangui&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
