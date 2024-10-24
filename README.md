@@ -1,28 +1,24 @@
-## Hi there 👋, I'm Natasha!
+# 💫 About Me:
+## Hi there 👋, I'm Natasha!<br><br>I'm a Software Developer and Tech Enthusiast. I’m passionate about building innovative solutions and empowering young developers to dive into the world of tech.<br><br>- 🔭 **Currently working on:** Refining the ENIN Real Estate App and building NJW's next-gen projects.<br>- 🌱 **Learning:** Advanced Next.js & Backend Integration.<br>- 👯 **Looking to collaborate on:** Open-source projects and impactful tech solutions.<br>- 🤔 **Need help with:** Any challenging JavaScript or React problem? I’m happy to lend a hand!<br>- 💬 **Ask me about:** Web development, mentoring, and scaling your code like a pro!<br>- 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/natashawangui)<br>- 😄 **Pronouns:** She/Her<br>- ⚡ **Fun fact:** I love deep diving into tech and spending weekends exploring new ideas with my friends (Suswa adventures are my favorite!)<br><br>### 🔥 My Skills<br>- **Frontend:** JavaScript, React, Next.js, Tailwind CSS<br>- **Backend:** Node.js, Express, MongoDB<br>- **Tools:** Git, GitHub, Agile Methodologies, Vercel<br>
 
-I'm a Software Developer and Tech Enthusiast. I’m passionate about building innovative solutions and empowering young developers to dive into the world of tech.
 
-- 🔭 **Currently working on:** Refining the ENIN Real Estate App and building NJW's next-gen projects.
-- 🌱 **Learning:** Advanced Next.js & Backend Integration.
-- 👯 **Looking to collaborate on:** Open-source projects and impactful tech solutions.
-- 🤔 **Need help with:** Any challenging JavaScript or React problem? I’m happy to lend a hand!
-- 💬 **Ask me about:** Web development, mentoring, and scaling your code like a pro!
-- 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/natashawangui)
-- 😄 **Pronouns:** She/Her
-- ⚡ **Fun fact:** I love deep diving into tech and spending weekends exploring new ideas with my friends (Suswa adventures are my favorite!)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/natashawangui) 
 
-### 🔥 My Skills
-- **Frontend:** JavaScript, React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, MongoDB
-- **Tools:** Git, GitHub, Agile Methodologies, Vercel
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NatashaJWangui&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NatashaJWangui&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaJWangui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NatashaJWangui&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NatashaJWangui&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=NatashaJWangui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📈 GitHub Stats
-![Natasha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NatashaJWangui&show_icons=true&theme=radical)
-
-### 🔗 Let's Connect
-- 🌐 [Portfolio](https://natashawangui.netlify.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/natashawangui)
-- ✉️ [Gmail](mailto:natashaj221219@gmail.com)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
