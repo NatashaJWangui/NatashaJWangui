@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Natasha!
 
-I'm a Software Developer and Tech Enthusias. I’m passionate about building innovative solutions and empowering young developers to dive into the world of tech.
+I'm a Software Developer and Tech Enthusiast. I’m passionate about building innovative solutions and empowering young developers to dive into the world of tech.
 
 - 🔭 **Currently working on:** Refining the ENIN Real Estate App and building NJW's next-gen projects.
 - 🌱 **Learning:** Advanced Next.js & Backend Integration.
