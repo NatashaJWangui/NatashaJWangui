@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi there 👋, I'm Natasha!<br><br>
+# 💫 Well hello there! 👋 I'm Natasha!:
+<img src="https://i.gifer.com/73Wv.gif" alt="Waving GIF" width="250" /> <br>
+
 I'm a Software Developer and Tech Enthusiast. I’m passionate about building innovative solutions and empowering young developers to dive into the world of tech.<br><br>
 - 🔭 Currently working on: Refining the ENIN Real Estate App and building NJW's next-gen projects.<br>
 - 🌱 Learning: Advanced Next.js & Backend Integration.<br>
@@ -8,9 +9,9 @@ I'm a Software Developer and Tech Enthusiast. I’m passionate about building in
 - 💬 Ask me about: Web development, mentoring, and scaling your code like a pro!<br>
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/natashawangui/) <br>
 - 😄 Pronouns: She/Her<br>
-- ⚡ Fun fact: I love deep diving into tech and spending weekends exploring new ideas with my friends (Suswa adventures are my favorite!)
+- ⚡ Fun fact: I love deep diving into tech and spending weekends exploring new ideas with my friends (Suswa, Mombasa, Meru adventures are my favorite!)
 <br><br> <!-- Add more line breaks here for additional space -->
-<img src="https://media.giphy.com/media/33zX3zllJBGY8/giphy.gif" alt="Funny Walking GIF" />
+<img src="https://media.giphy.com/media/33zX3zllJBGY8/giphy.gif" alt="Funny Walking GIF" width="250" />
 <br>
 
 ### 🔥 My Skills
@@ -71,6 +72,12 @@ I'm a Software Developer and Tech Enthusiast. I’m passionate about building in
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NatashaJWangui&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+## See You Soon! 👋
+Thank you for taking the time to explore my profile! Your visit means a lot to me. I look forward to crossing paths again soon—let's connect and create amazing things together! 💫
+
+<img src="https://i.gifer.com/Za3R.gif" alt="Waving GIF" width="250" /> <br>
+
 
 ---
 
