@@ -24,5 +24,5 @@ I'm a Software Developer and Tech Enthusias. I’m passionate about building inn
 ### 🔗 Let's Connect
 - 🌐 [Portfolio](https://natashawangui.netlify.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/natashawangui)
-- ✉️ [Email](mailto:natashaj221219@gmail.com)
+- ✉️ [Gmail](mailto:natashaj221219@gmail.com)
 
