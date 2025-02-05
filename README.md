@@ -9,7 +9,7 @@ I'm a Software Developer and Tech Enthusiast. I’m passionate about building in
 - 💬 Ask me about: Web development, mentoring, and scaling your code like a pro!<br>
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/natashawangui/) <br>
 - 😄 Pronouns: She/Her<br>
-- ⚡ Fun fact: I love deep diving into tech and spending weekends exploring new ideas with my friends (Suswa, Mombasa, Meru adventures are my favorite!)
+- ⚡ Fun fact: I love deep diving into tech and spending weekends exploring new ideas with my friends. 
 <br><br> <!-- Add more line breaks here for additional space -->
 <img src="https://media.giphy.com/media/33zX3zllJBGY8/giphy.gif" alt="Funny Walking GIF" width="250" />
 <br>
