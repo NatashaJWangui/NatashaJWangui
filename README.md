@@ -2,14 +2,14 @@
 <img src="https://i.gifer.com/73Wv.gif" alt="Waving GIF" width="250" /> <br>
 
 I'm a Software Developer and Tech Enthusiast. I’m passionate about building innovative solutions and empowering young developers to dive into the world of tech.<br><br>
-- 🔭 Currently working on: Refining the backend of ENIN Real Estate App and building NJW's next-gen projects.<br>
+- 🔭 Currently working on: Refining the dashboard of ENIN Real Estate App and building NJW's next-gen projects.<br>
 - 🌱 Learning: Advanced Next.js & Backend Integration.<br>
 - 👯 Looking to collaborate on: Open-source projects and impactful tech solutions.<br>
 - 🤔 Need help with: Any challenging JavaScript or React problem? I’m happy to lend a hand!<br>
 - 💬 Ask me about: Web development, mentoring, and scaling your code like a pro!<br>
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/natashawangui/) <br>
 - 😄 Pronouns: She/Her<br>
-- ⚡ Fun fact: I love deep diving into tech and spending weekends exploring new ideas with my friends. 
+- ⚡ Fun fact: I love deep diving into tech and spending weekends exploring new ideas or just taking a breather from the week. 
 <br><br> <!-- Add more line breaks here for additional space -->
 <img src="https://media.giphy.com/media/33zX3zllJBGY8/giphy.gif" alt="Funny Walking GIF" width="250" />
 <br>
