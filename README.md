@@ -2,7 +2,7 @@
 <img src="https://i.gifer.com/73Wv.gif" alt="Waving GIF" width="250" /> <br>
 
 I'm a Software Developer and Tech Enthusiast. I’m passionate about building innovative solutions and empowering young developers to dive into the world of tech.<br><br>
-- 🔭 Currently working on: Refining the dashboard of ENIN Real Estate App and building NJW's next-gen projects.<br>
+- 🔭 Currently working on: A music generator playlist with Text generation AI and building NJW's next-gen projects.<br>
 - 🌱 Learning: Advanced Next.js & Backend Integration.<br>
 - 👯 Looking to collaborate on: Open-source projects and impactful tech solutions.<br>
 - 🤔 Need help with: Any challenging JavaScript or React problem? I’m happy to lend a hand!<br>
