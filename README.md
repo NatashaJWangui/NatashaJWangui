@@ -15,7 +15,6 @@ I enjoy working across the stack — from intuitive interfaces to robust backend
 ### 🌱 Currently learning
 - Advanced **Next.js**
 - Backend architecture & system integration
-- **Ruby on Rails** for production-grade backend systems
 
 ### 👯 Open to collaborating on
 - Open-source projects  
@@ -62,6 +61,7 @@ I enjoy working across the stack — from intuitive interfaces to robust backend
 **Cloud & Deployment**
 - AWS
 - Azure
+- Coolify
 - Google Cloud
 - Vercel
 - Netlify
