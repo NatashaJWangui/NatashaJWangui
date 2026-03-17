@@ -103,10 +103,9 @@ I enjoy working across the stack — from intuitive interfaces to robust backend
 
 ## 📊 GitHub Stats
 
-<!-- My coding activity & languages in radical theme -->
-![GitHub Stats](./stats.png)
-![Top Languages](./top-langs.png)
-![Streak Stats](./streak.png)
+![GitHub Stats](./stats.svg)
+![Top Languages](./top-langs.svg)
+![Streak Stats](./streak.svg)
 
 ---
 
