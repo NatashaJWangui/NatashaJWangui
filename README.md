@@ -101,15 +101,6 @@ I enjoy working across the stack — from intuitive interfaces to robust backend
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](./stats.svg)
-![Top Languages](./top-langs.svg)
-![Streak Stats](./streak.svg)
-
----
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
