@@ -9,8 +9,8 @@ I enjoy working across the stack — from intuitive interfaces to robust backend
 ---
 
 ### 🔭 What I’m working on
-- 🌍 **Travel App** — location recommendations, trip planning & user-generated content  
-- 🧠 **Next-gen projects at NJW** — exploring scalable, future-ready solutions
+- 🎟️ **Events Platform** — ticketing, payments & event discovery  
+- 🐾 **Find My Vet** — locate nearby veterinary services in real-time  
 
 ### 🌱 Currently learning
 - Advanced **Next.js**
