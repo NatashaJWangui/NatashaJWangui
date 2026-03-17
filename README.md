@@ -109,10 +109,6 @@ I enjoy working across the stack — from intuitive interfaces to robust backend
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NatashaJWangui&theme=radical&margin-w=4)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
