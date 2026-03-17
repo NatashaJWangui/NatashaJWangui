@@ -103,9 +103,9 @@ I enjoy working across the stack — from intuitive interfaces to robust backend
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=NatashaJWangui&theme=radical&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=NatashaJWangui&theme=radical&count_private=true&token=GH_README_STATS_TOKEN)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NatashaJWangui&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaJWangui&layout=compact&theme=radical&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaJWangui&layout=compact&theme=radical&count_private=true&token=GH_README_STATS_TOKEN)
 
 ---
 
